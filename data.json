@@ -1,0 +1,16 @@
+{
+  "updated_at": null,
+  "regime": null,
+  "regime_rationale": "아직 첫 실행 전입니다. GitHub Actions가 매주 월/목 오전 7시(KST)에 자동 실행되어 이 파일을 갱신합니다.",
+  "excluded": ["GOOGL", "GOOG", "AAPL", "META", "MSFT", "AMZN", "NVDA", "TSLA"],
+  "market": {
+    "sp500_price": null,
+    "sp500_200dma_pct": null,
+    "vix": null,
+    "new_highs": null,
+    "new_lows": null
+  },
+  "dividend": [],
+  "recommend": [],
+  "notes": "초기 상태 - 첫 자동 실행 대기 중"
+}

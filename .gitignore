@@ -1,0 +1,11 @@
+# macOS 시스템 파일
+.DS_Store
+
+# Claude Code 설정
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
