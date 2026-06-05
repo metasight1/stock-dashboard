@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05 11:50 KST",
+  "updated_at": "2026-06-05 16:22 KST",
   "regime": "bull",
   "regime_rationale": "S&P 500이 7584로 200일 이동평균(6853)보다 +10.66% 위치, VIX는 15.40. 이를 종합하여 BULL 시장으로 판정.",
   "excluded": [
@@ -68,12 +68,12 @@
       "ticker": "DOC",
       "name": "Healthpeak Properties, Inc.",
       "ex_date": "2026-06-15",
-      "yield_pct": 6.4,
+      "yield_pct": 6.22,
       "consensus": "Buy",
       "sources": [
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-06-15, 배당률 6.40%"
+      "note_kr": "배당락일 2026-06-15, 배당률 6.22%"
     },
     {
       "ticker": "EXR",
@@ -112,12 +112,12 @@
       "ticker": "LRCX",
       "name": "Lam Research Corporation",
       "ex_date": "2026-06-17",
-      "yield_pct": 30.0,
+      "yield_pct": 31.0,
       "consensus": "Buy",
       "sources": [
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-06-17, 배당률 30.00%"
+      "note_kr": "배당락일 2026-06-17, 배당률 31.00%"
     },
     {
       "ticker": "MRK",
@@ -173,12 +173,12 @@
       "name": "Broadcom Inc.",
       "mentions_7d": null,
       "consensus": "Strong Buy",
-      "eps_growth_12m_pct": 31.6,
+      "eps_growth_12m_pct": 85.4,
       "peg": 1.05,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 31.6%, PEG 1.05"
+      "note_kr": "EPS 성장 85.4%, PEG 1.05"
     },
     {
       "ticker": "BABA",
