@@ -29,6 +29,11 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run filter script
+        # Alpha Vantage API 키는 GitHub Secrets에서 환경변수로 주입한다.
+        # (저장소 Settings → Secrets and variables → Actions 에 ALPHA_VANTAGE_API_KEY 등록)
+        # Secret이 없으면 스크립트가 자동으로 yfinance 컨센서스로 폴백한다.
+        env:
+          ALPHA_VANTAGE_API_KEY: ${{ secrets.ALPHA_VANTAGE_API_KEY }}
         run: python scripts/update_data.py
 
       - name: Commit updated data

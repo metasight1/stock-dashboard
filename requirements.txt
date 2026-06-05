@@ -1,2 +1,3 @@
 yfinance>=0.2.40
 pandas>=2.0.0
+lxml>=5.0.0  # pandas.read_html이 위키피디아 HTML 표를 파싱하는 데 필요
