@@ -1,16 +1,257 @@
 {
-  "updated_at": null,
-  "regime": null,
-  "regime_rationale": "아직 첫 실행 전입니다. GitHub Actions가 매주 월/목 오전 7시(KST)에 자동 실행되어 이 파일을 갱신합니다.",
-  "excluded": ["GOOGL", "GOOG", "AAPL", "META", "MSFT", "AMZN", "NVDA", "TSLA"],
+  "updated_at": "2026-06-05 11:50 KST",
+  "regime": "bull",
+  "regime_rationale": "S&P 500이 7584로 200일 이동평균(6853)보다 +10.66% 위치, VIX는 15.40. 이를 종합하여 BULL 시장으로 판정.",
+  "excluded": [
+    "AAPL",
+    "AMZN",
+    "GOOG",
+    "GOOGL",
+    "META",
+    "MSFT",
+    "NVDA",
+    "TSLA"
+  ],
   "market": {
-    "sp500_price": null,
-    "sp500_200dma_pct": null,
-    "vix": null,
+    "sp500_price": 7584.31,
+    "sp500_200dma_pct": 10.66,
+    "vix": 15.4,
     "new_highs": null,
     "new_lows": null
   },
-  "dividend": [],
-  "recommend": [],
-  "notes": "초기 상태 - 첫 자동 실행 대기 중"
+  "dividend": [
+    {
+      "ticker": "ALB",
+      "name": "Albemarle Corporation",
+      "ex_date": "2026-06-12",
+      "yield_pct": 98.0,
+      "consensus": "Buy",
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-06-12, 배당률 98.00%"
+    },
+    {
+      "ticker": "AMT",
+      "name": "American Tower Corporation (REI",
+      "ex_date": "2026-06-12",
+      "yield_pct": 3.6,
+      "consensus": "Buy",
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-06-12, 배당률 3.60%"
+    },
+    {
+      "ticker": "CCI",
+      "name": "Crown Castle Inc.",
+      "ex_date": "2026-06-15",
+      "yield_pct": 4.53,
+      "consensus": "Buy",
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-06-15, 배당률 4.53%"
+    },
+    {
+      "ticker": "DLR",
+      "name": "Digital Realty Trust, Inc.",
+      "ex_date": "2026-06-15",
+      "yield_pct": 2.59,
+      "consensus": "Buy",
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-06-15, 배당률 2.59%"
+    },
+    {
+      "ticker": "DOC",
+      "name": "Healthpeak Properties, Inc.",
+      "ex_date": "2026-06-15",
+      "yield_pct": 6.4,
+      "consensus": "Buy",
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-06-15, 배당률 6.40%"
+    },
+    {
+      "ticker": "EXR",
+      "name": "Extra Space Storage Inc",
+      "ex_date": "2026-06-15",
+      "yield_pct": 4.44,
+      "consensus": "Buy",
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-06-15, 배당률 4.44%"
+    },
+    {
+      "ticker": "GILD",
+      "name": "Gilead Sciences, Inc.",
+      "ex_date": "2026-06-15",
+      "yield_pct": 2.54,
+      "consensus": "Buy",
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-06-15, 배당률 2.54%"
+    },
+    {
+      "ticker": "KO",
+      "name": "Coca-Cola Company (The)",
+      "ex_date": "2026-06-15",
+      "yield_pct": 2.76,
+      "consensus": "Buy",
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-06-15, 배당률 2.76%"
+    },
+    {
+      "ticker": "LRCX",
+      "name": "Lam Research Corporation",
+      "ex_date": "2026-06-17",
+      "yield_pct": 30.0,
+      "consensus": "Buy",
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-06-17, 배당률 30.00%"
+    },
+    {
+      "ticker": "MRK",
+      "name": "Merck & Company, Inc.",
+      "ex_date": "2026-06-15",
+      "yield_pct": 2.83,
+      "consensus": "Buy",
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-06-15, 배당률 2.83%"
+    }
+  ],
+  "recommend": [
+    {
+      "ticker": "A",
+      "name": "Agilent Technologies, Inc.",
+      "mentions_7d": null,
+      "consensus": "Strong Buy",
+      "eps_growth_12m_pct": 60.0,
+      "peg": 1.33,
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "EPS 성장 60.0%, PEG 1.33"
+    },
+    {
+      "ticker": "ALK",
+      "name": "Alaska Air Group, Inc.",
+      "mentions_7d": null,
+      "consensus": "Strong Buy",
+      "eps_growth_12m_pct": 1190.6,
+      "peg": 1.2,
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "EPS 성장 1190.6%, PEG 1.20"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "mentions_7d": null,
+      "consensus": "Strong Buy",
+      "eps_growth_12m_pct": 91.2,
+      "peg": 1.31,
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "EPS 성장 91.2%, PEG 1.31"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "mentions_7d": null,
+      "consensus": "Strong Buy",
+      "eps_growth_12m_pct": 31.6,
+      "peg": 1.05,
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "EPS 성장 31.6%, PEG 1.05"
+    },
+    {
+      "ticker": "BABA",
+      "name": "Alibaba Group Holding Limited",
+      "mentions_7d": null,
+      "consensus": "Strong Buy",
+      "eps_growth_12m_pct": 104.1,
+      "peg": 0.46,
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "EPS 성장 104.1%, PEG 0.46"
+    },
+    {
+      "ticker": "BAC",
+      "name": "Bank of America Corporation",
+      "mentions_7d": null,
+      "consensus": "Strong Buy",
+      "eps_growth_12m_pct": 24.4,
+      "peg": 0.94,
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "EPS 성장 24.4%, PEG 0.94"
+    },
+    {
+      "ticker": "BLK",
+      "name": "BlackRock, Inc.",
+      "mentions_7d": null,
+      "consensus": "Buy",
+      "eps_growth_12m_pct": 45.9,
+      "peg": 1.29,
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "EPS 성장 45.9%, PEG 1.29"
+    },
+    {
+      "ticker": "BSX",
+      "name": "Boston Scientific Corporation",
+      "mentions_7d": null,
+      "consensus": "Strong Buy",
+      "eps_growth_12m_pct": 100.0,
+      "peg": 0.58,
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "EPS 성장 100.0%, PEG 0.58"
+    },
+    {
+      "ticker": "C",
+      "name": "Citigroup, Inc.",
+      "mentions_7d": null,
+      "consensus": "Buy",
+      "eps_growth_12m_pct": 56.1,
+      "peg": 0.72,
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "EPS 성장 56.1%, PEG 0.72"
+    },
+    {
+      "ticker": "CI",
+      "name": "The Cigna Group",
+      "mentions_7d": null,
+      "consensus": "Buy",
+      "eps_growth_12m_pct": 29.1,
+      "peg": 0.82,
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "EPS 성장 29.1%, PEG 0.82"
+    }
+  ],
+  "notes": "yfinance(Yahoo Finance) 데이터 기준. 매수 전 증권사 공식 데이터로 재확인 필요."
 }
