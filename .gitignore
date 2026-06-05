@@ -9,3 +9,6 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+
+# S&P 500 자동 수집 캐시 (24시간 TTL, 런타임 생성물)
+scripts/sp500_cache.json
