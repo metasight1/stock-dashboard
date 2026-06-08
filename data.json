@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-05 17:23 KST",
-  "regime": "bull",
-  "regime_rationale": "S&P 500이 7584로 200일 이동평균(6853)보다 +10.66% 위치, VIX는 15.78. 이를 종합하여 BULL 시장으로 판정.",
+  "updated_at": "2026-06-08 11:12 KST",
+  "regime": "mixed",
+  "regime_rationale": "S&P 500이 7384로 200일 이동평균(6858)보다 +7.66% 위치, VIX는 21.51. 이를 종합하여 MIXED 시장으로 판정.",
   "excluded": [
     "AAPL",
     "AMZN",
@@ -13,130 +13,131 @@
     "TSLA"
   ],
   "market": {
-    "sp500_price": 7584.31,
-    "sp500_200dma_pct": 10.66,
-    "vix": 15.78,
+    "sp500_price": 7383.74,
+    "sp500_200dma_pct": 7.66,
+    "vix": 21.51,
     "new_highs": null,
     "new_lows": null
   },
   "dividend": [
     {
-      "ticker": "AIG",
-      "name": "American International Group, I",
-      "ex_date": "2026-06-15",
-      "yield_pct": 2.72,
-      "consensus": "Buy",
-      "sources": [
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-06-15, 배당률 2.72%"
-    },
-    {
-      "ticker": "ALB",
-      "name": "Albemarle Corporation",
-      "ex_date": "2026-06-12",
-      "yield_pct": 98.0,
-      "consensus": "Buy",
-      "sources": [
-        "alphavantage",
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-06-12, 배당률 98.00%"
-    },
-    {
       "ticker": "AME",
       "name": "AMETEK, Inc.",
       "ex_date": "2026-06-15",
-      "yield_pct": 59.0,
-      "consensus": "Buy",
-      "sources": [
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-06-15, 배당률 59.00%"
-    },
-    {
-      "ticker": "AMT",
-      "name": "American Tower Corporation (REI",
-      "ex_date": "2026-06-12",
-      "yield_pct": 3.6,
+      "yield_pct": 60.0,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-06-12, 배당률 3.60%"
+      "note_kr": "배당락일 2026-06-15, 배당률 60.00%"
     },
     {
       "ticker": "ARES",
       "name": "Ares Management Corporation",
       "ex_date": "2026-06-16",
-      "yield_pct": 4.14,
+      "yield_pct": 4.3,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-06-16, 배당률 4.14%"
+      "note_kr": "배당락일 2026-06-16, 배당률 4.30%"
     },
     {
-      "ticker": "BR",
-      "name": "Broadridge Financial Solutions,",
-      "ex_date": "2026-06-12",
-      "yield_pct": 2.53,
-      "consensus": "Buy",
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "ex_date": "2026-06-22",
+      "yield_pct": 67.0,
+      "consensus": "Strong Buy",
       "sources": [
-        "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-06-12, 배당률 2.53%"
+      "note_kr": "배당락일 2026-06-22, 배당률 67.00%"
     },
     {
       "ticker": "CCI",
       "name": "Crown Castle Inc.",
       "ex_date": "2026-06-15",
-      "yield_pct": 4.53,
+      "yield_pct": 4.5,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-06-15, 배당률 4.53%"
-    },
-    {
-      "ticker": "DLR",
-      "name": "Digital Realty Trust, Inc.",
-      "ex_date": "2026-06-15",
-      "yield_pct": 2.59,
-      "consensus": "Buy",
-      "sources": [
-        "alphavantage",
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-06-15, 배당률 2.59%"
+      "note_kr": "배당락일 2026-06-15, 배당률 4.50%"
     },
     {
       "ticker": "DOC",
       "name": "Healthpeak Properties, Inc.",
       "ex_date": "2026-06-15",
-      "yield_pct": 6.22,
+      "yield_pct": 6.16,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-06-15, 배당률 6.22%"
+      "note_kr": "배당락일 2026-06-15, 배당률 6.16%"
     },
     {
-      "ticker": "DPZ",
-      "name": "Domino's Pizza Inc",
-      "ex_date": "2026-06-15",
-      "yield_pct": 2.59,
+      "ticker": "DTE",
+      "name": "DTE Energy Company",
+      "ex_date": "2026-06-22",
+      "yield_pct": 3.15,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-06-15, 배당률 2.59%"
+      "note_kr": "배당락일 2026-06-22, 배당률 3.15%"
+    },
+    {
+      "ticker": "GEV",
+      "name": "GE Vernova Inc.",
+      "ex_date": "2026-06-16",
+      "yield_pct": 21.0,
+      "consensus": "Buy",
+      "sources": [
+        "alphavantage",
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-06-16, 배당률 21.00%"
+    },
+    {
+      "ticker": "HBAN",
+      "name": "Huntington Bancshares Incorpora",
+      "ex_date": "2026-06-17",
+      "yield_pct": 3.76,
+      "consensus": "Buy",
+      "sources": [
+        "alphavantage",
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-06-17, 배당률 3.76%"
+    },
+    {
+      "ticker": "HCA",
+      "name": "HCA Healthcare, Inc.",
+      "ex_date": "2026-06-16",
+      "yield_pct": 84.0,
+      "consensus": "Buy",
+      "sources": [
+        "alphavantage",
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-06-16, 배당률 84.00%"
+    },
+    {
+      "ticker": "IRM",
+      "name": "Iron Mountain Incorporated (Del",
+      "ex_date": "2026-06-15",
+      "yield_pct": 2.77,
+      "consensus": "Buy",
+      "sources": [
+        "alphavantage",
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-06-15, 배당률 2.77%"
     }
   ],
   "recommend": [
@@ -159,12 +160,12 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 110.5,
-      "peg": 0.93,
+      "peg": 0.88,
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "EPS 성장 110.5%, PEG 0.93"
+      "note_kr": "EPS 성장 110.5%, PEG 0.88"
     },
     {
       "ticker": "ADSK",
@@ -172,12 +173,24 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 231.4,
-      "peg": 0.92,
+      "peg": 0.88,
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "EPS 성장 231.4%, PEG 0.92"
+      "note_kr": "EPS 성장 231.4%, PEG 0.88"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "mentions_7d": null,
+      "consensus": "Strong Buy",
+      "eps_growth_12m_pct": 91.2,
+      "peg": 1.12,
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "EPS 성장 91.2%, PEG 1.12"
     },
     {
       "ticker": "APH",
@@ -185,12 +198,23 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 24.1,
-      "peg": 1.27,
+      "peg": 1.19,
       "sources": [
-        "alphavantage",
         "yahoo"
       ],
-      "note_kr": "EPS 성장 24.1%, PEG 1.27"
+      "note_kr": "EPS 성장 24.1%, PEG 1.19"
+    },
+    {
+      "ticker": "APO",
+      "name": "Apollo Global Management, Inc. ",
+      "mentions_7d": null,
+      "consensus": "Buy",
+      "eps_growth_12m_pct": 567.4,
+      "peg": 0.68,
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "EPS 성장 567.4%, PEG 0.68"
     },
     {
       "ticker": "APTV",
@@ -198,11 +222,11 @@
       "mentions_7d": null,
       "consensus": "Strong Buy",
       "eps_growth_12m_pct": 305.6,
-      "peg": 1.23,
+      "peg": 1.1,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 305.6%, PEG 1.23"
+      "note_kr": "EPS 성장 305.6%, PEG 1.10"
     },
     {
       "ticker": "AVGO",
@@ -210,11 +234,11 @@
       "mentions_7d": null,
       "consensus": "Strong Buy",
       "eps_growth_12m_pct": 85.4,
-      "peg": 1.05,
+      "peg": 0.71,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 85.4%, PEG 1.05"
+      "note_kr": "EPS 성장 85.4%, PEG 0.71"
     },
     {
       "ticker": "BAC",
@@ -222,11 +246,11 @@
       "mentions_7d": null,
       "consensus": "Strong Buy",
       "eps_growth_12m_pct": 24.4,
-      "peg": 0.94,
+      "peg": 0.96,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 24.4%, PEG 0.94"
+      "note_kr": "EPS 성장 24.4%, PEG 0.96"
     },
     {
       "ticker": "BALL",
@@ -234,35 +258,11 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 21.9,
-      "peg": 1.14,
+      "peg": 1.12,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 21.9%, PEG 1.14"
-    },
-    {
-      "ticker": "BKNG",
-      "name": "Booking Holdings Inc. Common St",
-      "mentions_7d": null,
-      "consensus": "Buy",
-      "eps_growth_12m_pct": 240.0,
-      "peg": 0.72,
-      "sources": [
-        "yahoo"
-      ],
-      "note_kr": "EPS 성장 240.0%, PEG 0.72"
-    },
-    {
-      "ticker": "BLK",
-      "name": "BlackRock, Inc.",
-      "mentions_7d": null,
-      "consensus": "Buy",
-      "eps_growth_12m_pct": 45.9,
-      "peg": 1.29,
-      "sources": [
-        "yahoo"
-      ],
-      "note_kr": "EPS 성장 45.9%, PEG 1.29"
+      "note_kr": "EPS 성장 21.9%, PEG 1.12"
     }
   ],
   "notes": "가격·펀더멘털은 yfinance(Yahoo Finance), 애널리스트 컨센서스는 Alpha Vantage 우선(실패 시 yfinance 폴백) 기준. 매수 전 증권사 공식 데이터로 재확인 필요."
