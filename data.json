@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-11 08:07 KST",
+  "updated_at": "2026-06-11 21:33 KST",
   "regime": "mixed",
-  "regime_rationale": "S&P 500이 7267로 200일 이동평균(6872)보다 +5.74% 위치, VIX는 22.22. 이를 종합하여 MIXED 시장으로 판정.",
+  "regime_rationale": "S&P 500이 7267로 200일 이동평균(6872)보다 +5.74% 위치, VIX는 20.78. 이를 종합하여 MIXED 시장으로 판정.",
   "excluded": [
     "AAPL",
     "AMZN",
@@ -15,7 +15,7 @@
   "market": {
     "sp500_price": 7266.99,
     "sp500_200dma_pct": 5.74,
-    "vix": 22.22,
+    "vix": 20.78,
     "new_highs": null,
     "new_lows": null
   },
@@ -24,25 +24,25 @@
       "ticker": "APH",
       "name": "Amphenol Corporation",
       "ex_date": "2026-06-23",
-      "yield_pct": 65.0,
+      "yield_pct": 67.0,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-06-23, 배당률 65.00%"
+      "note_kr": "배당락일 2026-06-23, 배당률 67.00%"
     },
     {
       "ticker": "AVGO",
       "name": "Broadcom Inc.",
       "ex_date": "2026-06-22",
-      "yield_pct": 66.0,
+      "yield_pct": 70.0,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-06-22, 배당률 66.00%"
+      "note_kr": "배당락일 2026-06-22, 배당률 70.00%"
     },
     {
       "ticker": "DTE",
@@ -72,37 +72,36 @@
       "ticker": "STX",
       "name": "Seagate Technology Holdings PLC",
       "ex_date": "2026-06-24",
-      "yield_pct": 35.0,
+      "yield_pct": 36.0,
       "consensus": "Buy",
       "sources": [
-        "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-06-24, 배당률 35.00%"
+      "note_kr": "배당락일 2026-06-24, 배당률 36.00%"
     },
     {
       "ticker": "VICI",
       "name": "VICI Properties Inc.",
       "ex_date": "2026-06-18",
-      "yield_pct": 6.42,
+      "yield_pct": 6.34,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-06-18, 배당률 6.42%"
+      "note_kr": "배당락일 2026-06-18, 배당률 6.34%"
     },
     {
       "ticker": "VST",
       "name": "Vistra Corp.",
       "ex_date": "2026-06-22",
-      "yield_pct": 63.0,
+      "yield_pct": 66.0,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-06-22, 배당률 63.00%"
+      "note_kr": "배당락일 2026-06-22, 배당률 66.00%"
     }
   ],
   "recommend": [
@@ -175,10 +174,11 @@
       "ticker": "AVGO",
       "name": "Broadcom Inc.",
       "mentions_7d": null,
-      "consensus": "Strong Buy",
+      "consensus": "Buy",
       "eps_growth_12m_pct": 85.4,
       "peg": 0.72,
       "sources": [
+        "alphavantage",
         "yahoo"
       ],
       "note_kr": "EPS 성장 85.4%, PEG 0.72"
@@ -187,10 +187,11 @@
       "ticker": "BAC",
       "name": "Bank of America Corporation",
       "mentions_7d": null,
-      "consensus": "Strong Buy",
+      "consensus": "Buy",
       "eps_growth_12m_pct": 24.4,
       "peg": 0.96,
       "sources": [
+        "alphavantage",
         "yahoo"
       ],
       "note_kr": "EPS 성장 24.4%, PEG 0.96"
