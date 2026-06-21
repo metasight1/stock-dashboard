@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-18 21:00 KST",
+  "updated_at": "2026-06-22 07:56 KST",
   "regime": "bull",
-  "regime_rationale": "S&P 500이 7420로 200일 이동평균(6897)보다 +7.58% 위치, VIX는 17.52. 이를 종합하여 BULL 시장으로 판정.",
+  "regime_rationale": "S&P 500이 7501로 200일 이동평균(6903)보다 +8.66% 위치, VIX는 16.40. 이를 종합하여 BULL 시장으로 판정.",
   "excluded": [
     "AAPL",
     "AMZN",
@@ -13,13 +13,25 @@
     "TSLA"
   ],
   "market": {
-    "sp500_price": 7420.1,
-    "sp500_200dma_pct": 7.58,
-    "vix": 17.52,
+    "sp500_price": 7500.58,
+    "sp500_200dma_pct": 8.66,
+    "vix": 16.4,
     "new_highs": null,
     "new_lows": null
   },
   "dividend": [
+    {
+      "ticker": "A",
+      "name": "Agilent Technologies, Inc.",
+      "ex_date": "2026-06-30",
+      "yield_pct": 80.0,
+      "consensus": "Buy",
+      "sources": [
+        "alphavantage",
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-06-30, 배당률 80.00%"
+    },
     {
       "ticker": "APD",
       "name": "Air Products and Chemicals, Inc",
@@ -33,111 +45,100 @@
       "note_kr": "배당락일 2026-07-01, 배당률 2.58%"
     },
     {
-      "ticker": "CAH",
-      "name": "Cardinal Health, Inc.",
-      "ex_date": "2026-07-01",
-      "yield_pct": 90.0,
+      "ticker": "BXP",
+      "name": "BXP, Inc.",
+      "ex_date": "2026-06-30",
+      "yield_pct": 4.33,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-07-01, 배당률 90.00%"
+      "note_kr": "배당락일 2026-06-30, 배당률 4.33%"
+    },
+    {
+      "ticker": "CAH",
+      "name": "Cardinal Health, Inc.",
+      "ex_date": "2026-07-01",
+      "yield_pct": 92.0,
+      "consensus": "Buy",
+      "sources": [
+        "alphavantage",
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-07-01, 배당률 92.00%"
+    },
+    {
+      "ticker": "EQR",
+      "name": "Equity Residential",
+      "ex_date": "2026-06-29",
+      "yield_pct": 4.38,
+      "consensus": "Buy",
+      "sources": [
+        "alphavantage",
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-06-29, 배당률 4.38%"
+    },
+    {
+      "ticker": "FITB",
+      "name": "Fifth Third Bancorp",
+      "ex_date": "2026-06-30",
+      "yield_pct": 3.03,
+      "consensus": "Buy",
+      "sources": [
+        "alphavantage",
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-06-30, 배당률 3.03%"
+    },
+    {
+      "ticker": "FRT",
+      "name": "Federal Realty Investment Trust",
+      "ex_date": "2026-07-01",
+      "yield_pct": 3.75,
+      "consensus": "Buy",
+      "sources": [
+        "alphavantage",
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-07-01, 배당률 3.75%"
+    },
+    {
+      "ticker": "GL",
+      "name": "Globe Life Inc.",
+      "ex_date": "2026-07-06",
+      "yield_pct": 77.0,
+      "consensus": "Buy",
+      "sources": [
+        "alphavantage",
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-07-06, 배당률 77.00%"
     },
     {
       "ticker": "HST",
       "name": "Host Hotels & Resorts, Inc.",
       "ex_date": "2026-06-30",
-      "yield_pct": 3.21,
+      "yield_pct": 3.2,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-06-30, 배당률 3.21%"
-    },
-    {
-      "ticker": "INVH",
-      "name": "Invitation Homes Inc.",
-      "ex_date": "2026-06-25",
-      "yield_pct": 4.14,
-      "consensus": "Buy",
-      "sources": [
-        "alphavantage",
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-06-25, 배당률 4.14%"
+      "note_kr": "배당락일 2026-06-30, 배당률 3.20%"
     },
     {
       "ticker": "MDLZ",
       "name": "Mondelez International, Inc.",
       "ex_date": "2026-06-30",
-      "yield_pct": 3.22,
+      "yield_pct": 3.33,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-06-30, 배당률 3.22%"
-    },
-    {
-      "ticker": "MDT",
-      "name": "Medtronic plc.",
-      "ex_date": "2026-06-26",
-      "yield_pct": 3.54,
-      "consensus": "Buy",
-      "sources": [
-        "alphavantage",
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-06-26, 배당률 3.54%"
-    },
-    {
-      "ticker": "MPWR",
-      "name": "Monolithic Power Systems, Inc.",
-      "ex_date": "2026-06-30",
-      "yield_pct": 53.0,
-      "consensus": "Buy",
-      "sources": [
-        "alphavantage",
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-06-30, 배당률 53.00%"
-    },
-    {
-      "ticker": "NUE",
-      "name": "Nucor Corporation",
-      "ex_date": "2026-06-30",
-      "yield_pct": 86.0,
-      "consensus": "Buy",
-      "sources": [
-        "alphavantage",
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-06-30, 배당률 86.00%"
-    },
-    {
-      "ticker": "O",
-      "name": "Realty Income Corporation",
-      "ex_date": "2026-06-30",
-      "yield_pct": 5.23,
-      "consensus": "Buy",
-      "sources": [
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-06-30, 배당률 5.23%"
-    },
-    {
-      "ticker": "PWR",
-      "name": "Quanta Services, Inc.",
-      "ex_date": "2026-07-01",
-      "yield_pct": 6.0,
-      "consensus": "Buy",
-      "sources": [
-        "alphavantage",
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-07-01, 배당률 6.00%"
+      "note_kr": "배당락일 2026-06-30, 배당률 3.33%"
     }
   ],
   "recommend": [
@@ -147,12 +148,11 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 60.0,
-      "peg": 1.26,
+      "peg": 1.25,
       "sources": [
-        "alphavantage",
         "yahoo"
       ],
-      "note_kr": "EPS 성장 60.0%, PEG 1.26"
+      "note_kr": "EPS 성장 60.0%, PEG 1.25"
     },
     {
       "ticker": "ADI",
@@ -160,36 +160,25 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 110.5,
-      "peg": 0.91,
+      "peg": 0.95,
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "EPS 성장 110.5%, PEG 0.91"
+      "note_kr": "EPS 성장 110.5%, PEG 0.95"
     },
     {
       "ticker": "ADSK",
       "name": "Autodesk, Inc.",
       "mentions_7d": null,
-      "consensus": "Strong Buy",
-      "eps_growth_12m_pct": 231.4,
-      "peg": 0.77,
-      "sources": [
-        "yahoo"
-      ],
-      "note_kr": "EPS 성장 231.4%, PEG 0.77"
-    },
-    {
-      "ticker": "ALGN",
-      "name": "Align Technology, Inc.",
-      "mentions_7d": null,
       "consensus": "Buy",
-      "eps_growth_12m_pct": 23.9,
-      "peg": 0.95,
+      "eps_growth_12m_pct": 231.4,
+      "peg": 0.74,
       "sources": [
+        "alphavantage",
         "yahoo"
       ],
-      "note_kr": "EPS 성장 23.9%, PEG 0.95"
+      "note_kr": "EPS 성장 231.4%, PEG 0.74"
     },
     {
       "ticker": "APH",
@@ -197,12 +186,23 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 24.1,
-      "peg": 1.36,
+      "peg": 1.4,
       "sources": [
-        "alphavantage",
         "yahoo"
       ],
-      "note_kr": "EPS 성장 24.1%, PEG 1.36"
+      "note_kr": "EPS 성장 24.1%, PEG 1.40"
+    },
+    {
+      "ticker": "APO",
+      "name": "Apollo Global Management, Inc. ",
+      "mentions_7d": null,
+      "consensus": "Buy",
+      "eps_growth_12m_pct": 563.2,
+      "peg": 0.73,
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "EPS 성장 563.2%, PEG 0.73"
     },
     {
       "ticker": "APP",
@@ -210,24 +210,35 @@
       "mentions_7d": null,
       "consensus": "Strong Buy",
       "eps_growth_12m_pct": 113.1,
-      "peg": 1.42,
+      "peg": 1.29,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 113.1%, PEG 1.42"
+      "note_kr": "EPS 성장 113.1%, PEG 1.29"
     },
     {
       "ticker": "APTV",
       "name": "Aptiv PLC",
       "mentions_7d": null,
-      "consensus": "Buy",
+      "consensus": "Strong Buy",
       "eps_growth_12m_pct": 306.0,
-      "peg": 1.05,
+      "peg": 1.02,
       "sources": [
-        "alphavantage",
         "yahoo"
       ],
-      "note_kr": "EPS 성장 306.0%, PEG 1.05"
+      "note_kr": "EPS 성장 306.0%, PEG 1.02"
+    },
+    {
+      "ticker": "ARES",
+      "name": "Ares Management Corporation",
+      "mentions_7d": null,
+      "consensus": "Buy",
+      "eps_growth_12m_pct": 770.5,
+      "peg": 1.06,
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "EPS 성장 770.5%, PEG 1.06"
     },
     {
       "ticker": "AVGO",
@@ -235,11 +246,11 @@
       "mentions_7d": null,
       "consensus": "Strong Buy",
       "eps_growth_12m_pct": 85.4,
-      "peg": 0.68,
+      "peg": 0.75,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 85.4%, PEG 0.68"
+      "note_kr": "EPS 성장 85.4%, PEG 0.75"
     },
     {
       "ticker": "BAC",
@@ -247,23 +258,11 @@
       "mentions_7d": null,
       "consensus": "Strong Buy",
       "eps_growth_12m_pct": 24.4,
-      "peg": 1.02,
+      "peg": 1.0,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 24.4%, PEG 1.02"
-    },
-    {
-      "ticker": "BALL",
-      "name": "Ball Corporation",
-      "mentions_7d": null,
-      "consensus": "Buy",
-      "eps_growth_12m_pct": 21.9,
-      "peg": 1.24,
-      "sources": [
-        "yahoo"
-      ],
-      "note_kr": "EPS 성장 21.9%, PEG 1.24"
+      "note_kr": "EPS 성장 24.4%, PEG 1.00"
     }
   ],
   "notes": "가격·펀더멘털은 yfinance(Yahoo Finance), 애널리스트 컨센서스는 Alpha Vantage 우선(실패 시 yfinance 폴백) 기준. 매수 전 증권사 공식 데이터로 재확인 필요."
