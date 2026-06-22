@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-22 07:56 KST",
+  "updated_at": "2026-06-23 01:14 KST",
   "regime": "bull",
-  "regime_rationale": "S&P 500이 7501로 200일 이동평균(6903)보다 +8.66% 위치, VIX는 16.40. 이를 종합하여 BULL 시장으로 판정.",
+  "regime_rationale": "S&P 500이 7475로 200일 이동평균(6908)보다 +8.21% 위치, VIX는 17.51. 이를 종합하여 BULL 시장으로 판정.",
   "excluded": [
     "AAPL",
     "AMZN",
@@ -13,9 +13,9 @@
     "TSLA"
   ],
   "market": {
-    "sp500_price": 7500.58,
-    "sp500_200dma_pct": 8.66,
-    "vix": 16.4,
+    "sp500_price": 7474.61,
+    "sp500_200dma_pct": 8.21,
+    "vix": 17.51,
     "new_highs": null,
     "new_lows": null
   },
@@ -67,18 +67,6 @@
         "yahoo"
       ],
       "note_kr": "배당락일 2026-07-01, 배당률 92.00%"
-    },
-    {
-      "ticker": "EQR",
-      "name": "Equity Residential",
-      "ex_date": "2026-06-29",
-      "yield_pct": 4.38,
-      "consensus": "Buy",
-      "sources": [
-        "alphavantage",
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-06-29, 배당률 4.38%"
     },
     {
       "ticker": "FITB",
@@ -139,6 +127,18 @@
         "yahoo"
       ],
       "note_kr": "배당락일 2026-06-30, 배당률 3.33%"
+    },
+    {
+      "ticker": "MPWR",
+      "name": "Monolithic Power Systems, Inc.",
+      "ex_date": "2026-06-30",
+      "yield_pct": 51.0,
+      "consensus": "Buy",
+      "sources": [
+        "alphavantage",
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-06-30, 배당률 51.00%"
     }
   ],
   "recommend": [
@@ -150,6 +150,7 @@
       "eps_growth_12m_pct": 60.0,
       "peg": 1.25,
       "sources": [
+        "alphavantage",
         "yahoo"
       ],
       "note_kr": "EPS 성장 60.0%, PEG 1.25"
@@ -179,6 +180,18 @@
         "yahoo"
       ],
       "note_kr": "EPS 성장 231.4%, PEG 0.74"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "mentions_7d": null,
+      "consensus": "Strong Buy",
+      "eps_growth_12m_pct": 91.2,
+      "peg": 1.29,
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "EPS 성장 91.2%, PEG 1.29"
     },
     {
       "ticker": "APH",
@@ -251,18 +264,6 @@
         "yahoo"
       ],
       "note_kr": "EPS 성장 85.4%, PEG 0.75"
-    },
-    {
-      "ticker": "BAC",
-      "name": "Bank of America Corporation",
-      "mentions_7d": null,
-      "consensus": "Strong Buy",
-      "eps_growth_12m_pct": 24.4,
-      "peg": 1.0,
-      "sources": [
-        "yahoo"
-      ],
-      "note_kr": "EPS 성장 24.4%, PEG 1.00"
     }
   ],
   "notes": "가격·펀더멘털은 yfinance(Yahoo Finance), 애널리스트 컨센서스는 Alpha Vantage 우선(실패 시 yfinance 폴백) 기준. 매수 전 증권사 공식 데이터로 재확인 필요."
