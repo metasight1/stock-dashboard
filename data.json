@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-25 10:23 KST",
+  "updated_at": "2026-06-25 18:58 KST",
   "regime": "bull",
-  "regime_rationale": "S&P 500이 7358로 200일 이동평균(6916)보다 +6.39% 위치, VIX는 18.63. 이를 종합하여 BULL 시장으로 판정.",
+  "regime_rationale": "S&P 500이 7358로 200일 이동평균(6916)보다 +6.39% 위치, VIX는 18.01. 이를 종합하여 BULL 시장으로 판정.",
   "excluded": [
     "AAPL",
     "AMZN",
@@ -15,7 +15,7 @@
   "market": {
     "sp500_price": 7358.22,
     "sp500_200dma_pct": 6.39,
-    "vix": 18.63,
+    "vix": 18.01,
     "new_highs": null,
     "new_lows": null
   },
@@ -24,25 +24,25 @@
       "ticker": "ACN",
       "name": "Accenture plc",
       "ex_date": "2026-07-09",
-      "yield_pct": 5.13,
+      "yield_pct": 5.05,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-07-09, 배당률 5.13%"
+      "note_kr": "배당락일 2026-07-09, 배당률 5.05%"
     },
     {
       "ticker": "DAL",
       "name": "Delta Air Lines, Inc.",
       "ex_date": "2026-07-09",
-      "yield_pct": 90.0,
+      "yield_pct": 86.0,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-07-09, 배당률 90.00%"
+      "note_kr": "배당락일 2026-07-09, 배당률 86.00%"
     },
     {
       "ticker": "GL",
@@ -60,25 +60,37 @@
       "ticker": "MA",
       "name": "Mastercard Incorporated",
       "ex_date": "2026-07-09",
-      "yield_pct": 71.0,
+      "yield_pct": 70.0,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-07-09, 배당률 71.00%"
+      "note_kr": "배당락일 2026-07-09, 배당률 70.00%"
+    },
+    {
+      "ticker": "MKC",
+      "name": "McCormick & Company, Incorporat",
+      "ex_date": "2026-07-06",
+      "yield_pct": 4.03,
+      "consensus": "Buy",
+      "sources": [
+        "alphavantage",
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-07-06, 배당률 4.03%"
     },
     {
       "ticker": "SYY",
       "name": "Sysco Corporation",
       "ex_date": "2026-07-02",
-      "yield_pct": 2.77,
+      "yield_pct": 2.73,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-07-02, 배당률 2.77%"
+      "note_kr": "배당락일 2026-07-02, 배당률 2.73%"
     }
   ],
   "recommend": [
@@ -176,11 +188,10 @@
       "ticker": "BAC",
       "name": "Bank of America Corporation",
       "mentions_7d": null,
-      "consensus": "Buy",
+      "consensus": "Strong Buy",
       "eps_growth_12m_pct": 24.4,
       "peg": 1.02,
       "sources": [
-        "alphavantage",
         "yahoo"
       ],
       "note_kr": "EPS 성장 24.4%, PEG 1.02"
