@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-02 08:05 KST",
+  "updated_at": "2026-07-02 17:36 KST",
   "regime": "bull",
-  "regime_rationale": "S&P 500이 7483로 200일 이동평균(6939)보다 +7.85% 위치, VIX는 16.59. 이를 종합하여 BULL 시장으로 판정.",
+  "regime_rationale": "S&P 500이 7483로 200일 이동평균(6939)보다 +7.85% 위치, VIX는 16.85. 이를 종합하여 BULL 시장으로 판정.",
   "excluded": [
     "AAPL",
     "AMZN",
@@ -15,7 +15,7 @@
   "market": {
     "sp500_price": 7483.23,
     "sp500_200dma_pct": 7.85,
-    "vix": 16.59,
+    "vix": 16.85,
     "new_highs": null,
     "new_lows": null
   },
@@ -24,119 +24,118 @@
       "ticker": "ABBV",
       "name": "AbbVie Inc.",
       "ex_date": "2026-07-15",
-      "yield_pct": 2.75,
+      "yield_pct": 2.76,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-07-15, 배당률 2.75%"
+      "note_kr": "배당락일 2026-07-15, 배당률 2.76%"
     },
     {
       "ticker": "ABT",
       "name": "Abbott Laboratories",
       "ex_date": "2026-07-15",
-      "yield_pct": 2.78,
+      "yield_pct": 2.73,
       "consensus": "Buy",
       "sources": [
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-07-15, 배당률 2.78%"
+      "note_kr": "배당락일 2026-07-15, 배당률 2.73%"
     },
     {
       "ticker": "ACN",
       "name": "Accenture plc",
       "ex_date": "2026-07-09",
-      "yield_pct": 5.24,
+      "yield_pct": 4.97,
       "consensus": "Buy",
       "sources": [
-        "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-07-09, 배당률 5.24%"
+      "note_kr": "배당락일 2026-07-09, 배당률 4.97%"
     },
     {
       "ticker": "DAL",
       "name": "Delta Air Lines, Inc.",
       "ex_date": "2026-07-09",
-      "yield_pct": 83.0,
+      "yield_pct": 84.0,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-07-09, 배당률 83.00%"
+      "note_kr": "배당락일 2026-07-09, 배당률 84.00%"
     },
     {
       "ticker": "DRI",
       "name": "Darden Restaurants, Inc.",
       "ex_date": "2026-07-10",
-      "yield_pct": 2.97,
+      "yield_pct": 3.03,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-07-10, 배당률 2.97%"
+      "note_kr": "배당락일 2026-07-10, 배당률 3.03%"
+    },
+    {
+      "ticker": "EME",
+      "name": "EMCOR Group, Inc.",
+      "ex_date": "2026-07-15",
+      "yield_pct": 16.0,
+      "consensus": "Buy",
+      "sources": [
+        "alphavantage",
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-07-15, 배당률 16.00%"
     },
     {
       "ticker": "FCX",
       "name": "Freeport-McMoRan, Inc.",
       "ex_date": "2026-07-15",
-      "yield_pct": 95.0,
+      "yield_pct": 99.0,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-07-15, 배당률 95.00%"
+      "note_kr": "배당락일 2026-07-15, 배당률 99.00%"
     },
     {
       "ticker": "HRL",
       "name": "Hormel Foods Corporation",
       "ex_date": "2026-07-13",
-      "yield_pct": 4.71,
+      "yield_pct": 4.7,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-07-13, 배당률 4.71%"
+      "note_kr": "배당락일 2026-07-13, 배당률 4.70%"
     },
     {
       "ticker": "MA",
       "name": "Mastercard Incorporated",
       "ex_date": "2026-07-09",
-      "yield_pct": 68.0,
+      "yield_pct": 67.0,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-07-09, 배당률 68.00%"
+      "note_kr": "배당락일 2026-07-09, 배당률 67.00%"
     },
     {
       "ticker": "MAA",
       "name": "Mid-America Apartment Communiti",
       "ex_date": "2026-07-15",
-      "yield_pct": 4.4,
+      "yield_pct": 4.37,
       "consensus": "Buy",
       "sources": [
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-07-15, 배당률 4.40%"
-    },
-    {
-      "ticker": "MRVL",
-      "name": "Marvell Technology, Inc.",
-      "ex_date": "2026-07-10",
-      "yield_pct": 8.0,
-      "consensus": "Buy",
-      "sources": [
-        "alphavantage",
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-07-10, 배당률 8.00%"
+      "note_kr": "배당락일 2026-07-15, 배당률 4.37%"
     }
   ],
   "recommend": [
@@ -180,17 +179,29 @@
       "note_kr": "EPS 성장 231.4%, PEG 0.75"
     },
     {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "mentions_7d": null,
+      "consensus": "Strong Buy",
+      "eps_growth_12m_pct": 91.2,
+      "peg": 1.3,
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "EPS 성장 91.2%, PEG 1.30"
+    },
+    {
       "ticker": "APP",
       "name": "Applovin Corporation",
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 113.1,
-      "peg": 1.31,
+      "peg": 1.41,
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "EPS 성장 113.1%, PEG 1.31"
+      "note_kr": "EPS 성장 113.1%, PEG 1.41"
     },
     {
       "ticker": "APTV",
@@ -204,6 +215,18 @@
         "yahoo"
       ],
       "note_kr": "EPS 성장 305.5%, PEG 0.95"
+    },
+    {
+      "ticker": "ARES",
+      "name": "Ares Management Corporation",
+      "mentions_7d": null,
+      "consensus": "Buy",
+      "eps_growth_12m_pct": 770.5,
+      "peg": 1.05,
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "EPS 성장 770.5%, PEG 1.05"
     },
     {
       "ticker": "AVGO",
@@ -239,33 +262,10 @@
       "eps_growth_12m_pct": 21.9,
       "peg": 1.33,
       "sources": [
+        "alphavantage",
         "yahoo"
       ],
       "note_kr": "EPS 성장 21.9%, PEG 1.33"
-    },
-    {
-      "ticker": "BKNG",
-      "name": "Booking Holdings Inc. Common St",
-      "mentions_7d": null,
-      "consensus": "Buy",
-      "eps_growth_12m_pct": 240.0,
-      "peg": 0.77,
-      "sources": [
-        "yahoo"
-      ],
-      "note_kr": "EPS 성장 240.0%, PEG 0.77"
-    },
-    {
-      "ticker": "BLK",
-      "name": "BlackRock, Inc.",
-      "mentions_7d": null,
-      "consensus": "Buy",
-      "eps_growth_12m_pct": 45.9,
-      "peg": 1.22,
-      "sources": [
-        "yahoo"
-      ],
-      "note_kr": "EPS 성장 45.9%, PEG 1.22"
     }
   ],
   "notes": "가격·펀더멘털은 yfinance(Yahoo Finance), 애널리스트 컨센서스는 Alpha Vantage 우선(실패 시 yfinance 폴백) 기준. 매수 전 증권사 공식 데이터로 재확인 필요."
