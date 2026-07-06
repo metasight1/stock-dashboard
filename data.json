@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-06 09:29 KST",
+  "updated_at": "2026-07-06 21:27 KST",
   "regime": "bull",
-  "regime_rationale": "S&P 500이 7483로 200일 이동평균(6943)보다 +7.78% 위치, VIX는 16.15. 이를 종합하여 BULL 시장으로 판정.",
+  "regime_rationale": "S&P 500이 7483로 200일 이동평균(6943)보다 +7.78% 위치, VIX는 16.32. 이를 종합하여 BULL 시장으로 판정.",
   "excluded": [
     "AAPL",
     "AMZN",
@@ -15,7 +15,7 @@
   "market": {
     "sp500_price": 7483.24,
     "sp500_200dma_pct": 7.78,
-    "vix": 16.15,
+    "vix": 16.32,
     "new_highs": null,
     "new_lows": null
   },
@@ -180,25 +180,14 @@
       "note_kr": "EPS 성장 24.1%, PEG 1.41"
     },
     {
-      "ticker": "APO",
-      "name": "Apollo Global Management, Inc. ",
-      "mentions_7d": null,
-      "consensus": "Buy",
-      "eps_growth_12m_pct": 568.4,
-      "peg": 0.54,
-      "sources": [
-        "yahoo"
-      ],
-      "note_kr": "EPS 성장 568.4%, PEG 0.54"
-    },
-    {
       "ticker": "APP",
       "name": "Applovin Corporation",
       "mentions_7d": null,
-      "consensus": "Strong Buy",
+      "consensus": "Buy",
       "eps_growth_12m_pct": 113.1,
       "peg": 1.45,
       "sources": [
+        "alphavantage",
         "yahoo"
       ],
       "note_kr": "EPS 성장 113.1%, PEG 1.45"
@@ -254,6 +243,18 @@
         "yahoo"
       ],
       "note_kr": "EPS 성장 24.4%, PEG 1.05"
+    },
+    {
+      "ticker": "BALL",
+      "name": "Ball Corporation",
+      "mentions_7d": null,
+      "consensus": "Buy",
+      "eps_growth_12m_pct": 21.9,
+      "peg": 1.35,
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "EPS 성장 21.9%, PEG 1.35"
     }
   ],
   "notes": "가격·펀더멘털은 yfinance(Yahoo Finance), 애널리스트 컨센서스는 Alpha Vantage 우선(실패 시 yfinance 폴백) 기준. 매수 전 증권사 공식 데이터로 재확인 필요."
