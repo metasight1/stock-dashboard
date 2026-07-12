@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-09 08:02 KST",
+  "updated_at": "2026-07-13 07:39 KST",
   "regime": "bull",
-  "regime_rationale": "S&P 500이 7483로 200일 이동평균(6956)보다 +7.57% 위치, VIX는 16.90. 이를 종합하여 BULL 시장으로 판정.",
+  "regime_rationale": "S&P 500이 7575로 200일 이동평균(6965)보다 +8.76% 위치, VIX는 15.03. 이를 종합하여 BULL 시장으로 판정.",
   "excluded": [
     "AAPL",
     "AMZN",
@@ -13,9 +13,9 @@
     "TSLA"
   ],
   "market": {
-    "sp500_price": 7482.71,
-    "sp500_200dma_pct": 7.57,
-    "vix": 16.9,
+    "sp500_price": 7575.39,
+    "sp500_200dma_pct": 8.76,
+    "vix": 15.03,
     "new_highs": null,
     "new_lows": null
   },
@@ -24,49 +24,96 @@
       "ticker": "CAT",
       "name": "Caterpillar, Inc.",
       "ex_date": "2026-07-20",
-      "yield_pct": 69.0,
+      "yield_pct": 68.0,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-07-20, 배당률 69.00%"
+      "note_kr": "배당락일 2026-07-20, 배당률 68.00%"
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "ex_date": "2026-07-24",
+      "yield_pct": 64.0,
+      "consensus": "Buy",
+      "sources": [
+        "alphavantage",
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-07-24, 배당률 64.00%"
+    },
+    {
+      "ticker": "CVS",
+      "name": "CVS Health Corporation",
+      "ex_date": "2026-07-23",
+      "yield_pct": 2.55,
+      "consensus": "Buy",
+      "sources": [
+        "alphavantage",
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-07-23, 배당률 2.55%"
     },
     {
       "ticker": "DELL",
       "name": "Dell Technologies Inc.",
       "ex_date": "2026-07-21",
-      "yield_pct": 60.0,
+      "yield_pct": 58.0,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-07-21, 배당률 60.00%"
+      "note_kr": "배당락일 2026-07-21, 배당률 58.00%"
+    },
+    {
+      "ticker": "DOC",
+      "name": "Healthpeak Properties, Inc.",
+      "ex_date": "2026-07-20",
+      "yield_pct": 5.64,
+      "consensus": "Buy",
+      "sources": [
+        "alphavantage",
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-07-20, 배당률 5.64%"
+    },
+    {
+      "ticker": "GEHC",
+      "name": "GE HealthCare Technologies Inc.",
+      "ex_date": "2026-07-24",
+      "yield_pct": 22.0,
+      "consensus": "Buy",
+      "sources": [
+        "alphavantage",
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-07-24, 배당률 22.00%"
     },
     {
       "ticker": "PNC",
       "name": "PNC Financial Services Group, I",
       "ex_date": "2026-07-20",
-      "yield_pct": 3.15,
+      "yield_pct": 3.18,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-07-20, 배당률 3.15%"
+      "note_kr": "배당락일 2026-07-20, 배당률 3.18%"
     },
     {
       "ticker": "ZTS",
       "name": "Zoetis Inc.",
       "ex_date": "2026-07-20",
-      "yield_pct": 2.78,
+      "yield_pct": 2.81,
       "consensus": "Buy",
       "sources": [
-        "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-07-20, 배당률 2.78%"
+      "note_kr": "배당락일 2026-07-20, 배당률 2.81%"
     }
   ],
   "recommend": [
@@ -76,11 +123,11 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 60.0,
-      "peg": 1.16,
+      "peg": 1.19,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 60.0%, PEG 1.16"
+      "note_kr": "EPS 성장 60.0%, PEG 1.19"
     },
     {
       "ticker": "ADI",
@@ -88,12 +135,12 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 110.5,
-      "peg": 0.71,
+      "peg": 0.72,
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "EPS 성장 110.5%, PEG 0.71"
+      "note_kr": "EPS 성장 110.5%, PEG 0.72"
     },
     {
       "ticker": "ADSK",
@@ -109,29 +156,16 @@
       "note_kr": "EPS 성장 231.4%, PEG 0.80"
     },
     {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "mentions_7d": null,
-      "consensus": "Strong Buy",
-      "eps_growth_12m_pct": 91.2,
-      "peg": 1.32,
-      "sources": [
-        "yahoo"
-      ],
-      "note_kr": "EPS 성장 91.2%, PEG 1.32"
-    },
-    {
       "ticker": "APH",
       "name": "Amphenol Corporation",
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 24.1,
-      "peg": 1.43,
+      "peg": 1.36,
       "sources": [
-        "alphavantage",
         "yahoo"
       ],
-      "note_kr": "EPS 성장 24.1%, PEG 1.43"
+      "note_kr": "EPS 성장 24.1%, PEG 1.36"
     },
     {
       "ticker": "APP",
@@ -139,24 +173,25 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 113.1,
-      "peg": 1.49,
+      "peg": 1.39,
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "EPS 성장 113.1%, PEG 1.49"
+      "note_kr": "EPS 성장 113.1%, PEG 1.39"
     },
     {
       "ticker": "APTV",
       "name": "Aptiv PLC",
       "mentions_7d": null,
-      "consensus": "Strong Buy",
-      "eps_growth_12m_pct": 303.4,
+      "consensus": "Buy",
+      "eps_growth_12m_pct": 304.4,
       "peg": 0.95,
       "sources": [
+        "alphavantage",
         "yahoo"
       ],
-      "note_kr": "EPS 성장 303.4%, PEG 0.95"
+      "note_kr": "EPS 성장 304.4%, PEG 0.95"
     },
     {
       "ticker": "ARES",
@@ -177,12 +212,12 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 85.4,
-      "peg": 0.42,
+      "peg": 0.45,
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "EPS 성장 85.4%, PEG 0.42"
+      "note_kr": "EPS 성장 85.4%, PEG 0.45"
     },
     {
       "ticker": "BAC",
@@ -190,12 +225,24 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 24.4,
-      "peg": 1.07,
+      "peg": 1.06,
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "EPS 성장 24.4%, PEG 1.07"
+      "note_kr": "EPS 성장 24.4%, PEG 1.06"
+    },
+    {
+      "ticker": "BALL",
+      "name": "Ball Corporation",
+      "mentions_7d": null,
+      "consensus": "Buy",
+      "eps_growth_12m_pct": 21.9,
+      "peg": 1.31,
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "EPS 성장 21.9%, PEG 1.31"
     }
   ],
   "notes": "가격·펀더멘털은 yfinance(Yahoo Finance), 애널리스트 컨센서스는 Alpha Vantage 우선(실패 시 yfinance 폴백) 기준. 매수 전 증권사 공식 데이터로 재확인 필요."
