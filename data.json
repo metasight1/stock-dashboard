@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-16 07:56 KST",
+  "updated_at": "2026-07-20 07:43 KST",
   "regime": "bull",
-  "regime_rationale": "S&P 500이 7572로 200일 이동평균(6979)보다 +8.51% 위치, VIX는 15.67. 이를 종합하여 BULL 시장으로 판정.",
+  "regime_rationale": "S&P 500이 7458로 200일 이동평균(6987)보다 +6.73% 위치, VIX는 18.77. 이를 종합하여 BULL 시장으로 판정.",
   "excluded": [
     "AAPL",
     "AMZN",
@@ -13,60 +13,95 @@
     "TSLA"
   ],
   "market": {
-    "sp500_price": 7572.4,
-    "sp500_200dma_pct": 8.51,
-    "vix": 15.67,
+    "sp500_price": 7457.69,
+    "sp500_200dma_pct": 6.73,
+    "vix": 18.77,
     "new_highs": null,
     "new_lows": null
   },
   "dividend": [
     {
-      "ticker": "COST",
-      "name": "Costco Wholesale Corporation",
-      "ex_date": "2026-07-24",
-      "yield_pct": 64.0,
+      "ticker": "AON",
+      "name": "Aon plc",
+      "ex_date": "2026-08-03",
+      "yield_pct": 89.0,
       "consensus": "Buy",
       "sources": [
-        "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-07-24, 배당률 64.00%"
+      "note_kr": "배당락일 2026-08-03, 배당률 89.00%"
     },
     {
-      "ticker": "CVS",
-      "name": "CVS Health Corporation",
-      "ex_date": "2026-07-23",
-      "yield_pct": 2.51,
+      "ticker": "CASY",
+      "name": "Caseys General Stores, Inc.",
+      "ex_date": "2026-07-31",
+      "yield_pct": 30.0,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-07-23, 배당률 2.51%"
+      "note_kr": "배당락일 2026-07-31, 배당률 30.00%"
     },
     {
-      "ticker": "GEHC",
-      "name": "GE HealthCare Technologies Inc.",
-      "ex_date": "2026-07-24",
-      "yield_pct": 23.0,
+      "ticker": "CFG",
+      "name": "Citizens Financial Group, Inc.",
+      "ex_date": "2026-07-30",
+      "yield_pct": 2.54,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-07-24, 배당률 23.00%"
+      "note_kr": "배당락일 2026-07-30, 배당률 2.54%"
+    },
+    {
+      "ticker": "LNT",
+      "name": "Alliant Energy Corporation",
+      "ex_date": "2026-07-31",
+      "yield_pct": 2.86,
+      "consensus": "Buy",
+      "sources": [
+        "alphavantage",
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-07-31, 배당률 2.86%"
+    },
+    {
+      "ticker": "NI",
+      "name": "NiSource Inc",
+      "ex_date": "2026-07-31",
+      "yield_pct": 2.61,
+      "consensus": "Buy",
+      "sources": [
+        "alphavantage",
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-07-31, 배당률 2.61%"
+    },
+    {
+      "ticker": "OKE",
+      "name": "ONEOK, Inc.",
+      "ex_date": "2026-08-03",
+      "yield_pct": 4.58,
+      "consensus": "Buy",
+      "sources": [
+        "alphavantage",
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-08-03, 배당률 4.58%"
     },
     {
       "ticker": "STZ",
       "name": "Constellation Brands, Inc.",
       "ex_date": "2026-07-30",
-      "yield_pct": 3.14,
+      "yield_pct": 3.1,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-07-30, 배당률 3.14%"
+      "note_kr": "배당락일 2026-07-30, 배당률 3.10%"
     }
   ],
   "recommend": [
@@ -76,12 +111,12 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 60.0,
-      "peg": 1.19,
+      "peg": 1.21,
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "EPS 성장 60.0%, PEG 1.19"
+      "note_kr": "EPS 성장 60.0%, PEG 1.21"
     },
     {
       "ticker": "ADI",
@@ -89,11 +124,12 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 110.5,
-      "peg": 0.72,
+      "peg": 0.7,
       "sources": [
+        "alphavantage",
         "yahoo"
       ],
-      "note_kr": "EPS 성장 110.5%, PEG 0.72"
+      "note_kr": "EPS 성장 110.5%, PEG 0.70"
     },
     {
       "ticker": "ADSK",
@@ -101,12 +137,12 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 231.4,
-      "peg": 0.8,
+      "peg": 0.83,
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "EPS 성장 231.4%, PEG 0.80"
+      "note_kr": "EPS 성장 231.4%, PEG 0.83"
     },
     {
       "ticker": "AJG",
@@ -114,11 +150,11 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 16.2,
-      "peg": 0.83,
+      "peg": 0.84,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 16.2%, PEG 0.83"
+      "note_kr": "EPS 성장 16.2%, PEG 0.84"
     },
     {
       "ticker": "APH",
@@ -126,37 +162,23 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 24.1,
-      "peg": 1.36,
-      "sources": [
-        "alphavantage",
-        "yahoo"
-      ],
-      "note_kr": "EPS 성장 24.1%, PEG 1.36"
-    },
-    {
-      "ticker": "APO",
-      "name": "Apollo Global Management, Inc. ",
-      "mentions_7d": null,
-      "consensus": "Buy",
-      "eps_growth_12m_pct": 565.3,
-      "peg": 0.54,
+      "peg": 1.31,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 565.3%, PEG 0.54"
+      "note_kr": "EPS 성장 24.1%, PEG 1.31"
     },
     {
       "ticker": "APP",
       "name": "Applovin Corporation",
       "mentions_7d": null,
-      "consensus": "Buy",
+      "consensus": "Strong Buy",
       "eps_growth_12m_pct": 113.1,
-      "peg": 1.39,
+      "peg": 1.17,
       "sources": [
-        "alphavantage",
         "yahoo"
       ],
-      "note_kr": "EPS 성장 113.1%, PEG 1.39"
+      "note_kr": "EPS 성장 113.1%, PEG 1.17"
     },
     {
       "ticker": "APTV",
@@ -177,12 +199,11 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 770.5,
-      "peg": 1.12,
+      "peg": 1.16,
       "sources": [
-        "alphavantage",
         "yahoo"
       ],
-      "note_kr": "EPS 성장 770.5%, PEG 1.12"
+      "note_kr": "EPS 성장 770.5%, PEG 1.16"
     },
     {
       "ticker": "AVGO",
@@ -190,11 +211,23 @@
       "mentions_7d": null,
       "consensus": "Strong Buy",
       "eps_growth_12m_pct": 85.4,
-      "peg": 0.45,
+      "peg": 0.42,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 85.4%, PEG 0.45"
+      "note_kr": "EPS 성장 85.4%, PEG 0.42"
+    },
+    {
+      "ticker": "BAC",
+      "name": "Bank of America Corporation",
+      "mentions_7d": null,
+      "consensus": "Buy",
+      "eps_growth_12m_pct": 36.0,
+      "peg": 1.07,
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "EPS 성장 36.0%, PEG 1.07"
     }
   ],
   "notes": "가격·펀더멘털은 yfinance(Yahoo Finance), 애널리스트 컨센서스는 Alpha Vantage 우선(실패 시 yfinance 폴백) 기준. 매수 전 증권사 공식 데이터로 재확인 필요."
