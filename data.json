@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-24 07:13 KST",
+  "updated_at": "2026-08-27 11:51 KST",
   "regime": "bull",
-  "regime_rationale": "S&P 500이 7674로 200일 이동평균(7096)보다 +8.15% 위치, VIX는 15.13. 이를 종합하여 BULL 시장으로 판정.",
+  "regime_rationale": "S&P 500이 7676로 200일 이동평균(7109)보다 +7.97% 위치, VIX는 15.21. 이를 종합하여 BULL 시장으로 판정.",
   "excluded": [
     "AAPL",
     "AMZN",
@@ -13,132 +13,132 @@
     "TSLA"
   ],
   "market": {
-    "sp500_price": 7674.37,
-    "sp500_200dma_pct": 8.15,
-    "vix": 15.13,
+    "sp500_price": 7675.7,
+    "sp500_200dma_pct": 7.97,
+    "vix": 15.21,
     "new_highs": null,
     "new_lows": null
   },
   "dividend": [
     {
+      "ticker": "AEE",
+      "name": "Ameren Corporation",
+      "ex_date": "2026-09-08",
+      "yield_pct": 2.81,
+      "consensus": "Buy",
+      "sources": [
+        "alphavantage",
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-09-08, 배당률 2.81%"
+    },
+    {
       "ticker": "AMCR",
       "name": "Amcor plc",
       "ex_date": "2026-09-04",
-      "yield_pct": 5.35,
+      "yield_pct": 5.5,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-09-04, 배당률 5.35%"
-    },
-    {
-      "ticker": "CTVA",
-      "name": "Corteva, Inc.",
-      "ex_date": "2026-09-01",
-      "yield_pct": 88.0,
-      "consensus": "Buy",
-      "sources": [
-        "alphavantage",
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-09-01, 배당률 88.00%"
-    },
-    {
-      "ticker": "GLW",
-      "name": "Corning Incorporated",
-      "ex_date": "2026-08-31",
-      "yield_pct": 75.0,
-      "consensus": "Buy",
-      "sources": [
-        "alphavantage",
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-08-31, 배당률 75.00%"
+      "note_kr": "배당락일 2026-09-04, 배당률 5.50%"
     },
     {
       "ticker": "GM",
       "name": "General Motors Company",
       "ex_date": "2026-09-04",
-      "yield_pct": 82.0,
+      "yield_pct": 84.0,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-09-04, 배당률 82.00%"
+      "note_kr": "배당락일 2026-09-04, 배당률 84.00%"
     },
     {
       "ticker": "GPC",
       "name": "Genuine Parts Company",
       "ex_date": "2026-09-04",
-      "yield_pct": 3.17,
+      "yield_pct": 3.08,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-09-04, 배당률 3.17%"
+      "note_kr": "배당락일 2026-09-04, 배당률 3.08%"
     },
     {
       "ticker": "HD",
       "name": "Home Depot, Inc. (The)",
       "ex_date": "2026-09-03",
-      "yield_pct": 2.78,
+      "yield_pct": 2.76,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-09-03, 배당률 2.78%"
-    },
-    {
-      "ticker": "IBKR",
-      "name": "Interactive Brokers Group, Inc.",
-      "ex_date": "2026-09-01",
-      "yield_pct": 37.0,
-      "consensus": "Buy",
-      "sources": [
-        "alphavantage",
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-09-01, 배당률 37.00%"
-    },
-    {
-      "ticker": "KEY",
-      "name": "KeyCorp",
-      "ex_date": "2026-09-01",
-      "yield_pct": 3.75,
-      "consensus": "Buy",
-      "sources": [
-        "alphavantage",
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-09-01, 배당률 3.75%"
+      "note_kr": "배당락일 2026-09-03, 배당률 2.76%"
     },
     {
       "ticker": "KMB",
       "name": "Kimberly-Clark Corporation",
       "ex_date": "2026-09-04",
-      "yield_pct": 4.68,
+      "yield_pct": 4.61,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-09-04, 배당률 4.68%"
+      "note_kr": "배당락일 2026-09-04, 배당률 4.61%"
     },
     {
-      "ticker": "MCD",
-      "name": "McDonald's Corporation",
-      "ex_date": "2026-09-01",
-      "yield_pct": 2.75,
+      "ticker": "NEM",
+      "name": "Newmont Corporation",
+      "ex_date": "2026-09-03",
+      "yield_pct": 77.0,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-09-01, 배당률 2.75%"
+      "note_kr": "배당락일 2026-09-03, 배당률 77.00%"
+    },
+    {
+      "ticker": "NWS",
+      "name": "News Corporation",
+      "ex_date": "2026-09-09",
+      "yield_pct": 57.0,
+      "consensus": "Buy",
+      "sources": [
+        "alphavantage",
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-09-09, 배당률 57.00%"
+    },
+    {
+      "ticker": "NWSA",
+      "name": "News Corporation",
+      "ex_date": "2026-09-09",
+      "yield_pct": 65.0,
+      "consensus": "Buy",
+      "sources": [
+        "alphavantage",
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-09-09, 배당률 65.00%"
+    },
+    {
+      "ticker": "PPL",
+      "name": "PPL Corporation",
+      "ex_date": "2026-09-10",
+      "yield_pct": 3.26,
+      "consensus": "Buy",
+      "sources": [
+        "alphavantage",
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-09-10, 배당률 3.26%"
     }
   ],
   "recommend": [
@@ -148,12 +148,12 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 60.0,
-      "peg": 1.42,
+      "peg": 1.38,
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "EPS 성장 60.0%, PEG 1.42"
+      "note_kr": "EPS 성장 60.0%, PEG 1.38"
     },
     {
       "ticker": "ADI",
@@ -174,24 +174,24 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 231.4,
-      "peg": 0.97,
+      "peg": 0.96,
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "EPS 성장 231.4%, PEG 0.97"
+      "note_kr": "EPS 성장 231.4%, PEG 0.96"
     },
     {
       "ticker": "ALB",
       "name": "Albemarle Corporation",
       "mentions_7d": null,
       "consensus": "Buy",
-      "eps_growth_12m_pct": 4160.3,
+      "eps_growth_12m_pct": 4084.2,
       "peg": 0.79,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 4160.3%, PEG 0.79"
+      "note_kr": "EPS 성장 4084.2%, PEG 0.79"
     },
     {
       "ticker": "AMAT",
@@ -199,11 +199,11 @@
       "mentions_7d": null,
       "consensus": "Strong Buy",
       "eps_growth_12m_pct": 42.8,
-      "peg": 0.99,
+      "peg": 0.96,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 42.8%, PEG 0.99"
+      "note_kr": "EPS 성장 42.8%, PEG 0.96"
     },
     {
       "ticker": "AMD",
@@ -211,11 +211,11 @@
       "mentions_7d": null,
       "consensus": "Strong Buy",
       "eps_growth_12m_pct": 159.5,
-      "peg": 1.01,
+      "peg": 1.03,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 159.5%, PEG 1.01"
+      "note_kr": "EPS 성장 159.5%, PEG 1.03"
     },
     {
       "ticker": "APH",
@@ -223,11 +223,11 @@
       "mentions_7d": null,
       "consensus": "Strong Buy",
       "eps_growth_12m_pct": 59.3,
-      "peg": 1.09,
+      "peg": 1.1,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 59.3%, PEG 1.09"
+      "note_kr": "EPS 성장 59.3%, PEG 1.10"
     },
     {
       "ticker": "APO",
@@ -247,11 +247,11 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 57.0,
-      "peg": 0.86,
+      "peg": 0.88,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 57.0%, PEG 0.86"
+      "note_kr": "EPS 성장 57.0%, PEG 0.88"
     },
     {
       "ticker": "AVGO",
