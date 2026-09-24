@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-21 08:45 KST",
+  "updated_at": "2026-09-24 09:12 KST",
   "regime": "bull",
-  "regime_rationale": "S&P 500이 7650로 200일 이동평균(7183)보다 +6.51% 위치, VIX는 14.81. 이를 종합하여 BULL 시장으로 판정.",
+  "regime_rationale": "S&P 500이 7706로 200일 이동평균(7192)보다 +7.15% 위치, VIX는 15.18. 이를 종합하여 BULL 시장으로 판정.",
   "excluded": [
     "AAPL",
     "AMZN",
@@ -13,132 +13,108 @@
     "TSLA"
   ],
   "market": {
-    "sp500_price": 7650.5,
-    "sp500_200dma_pct": 6.51,
-    "vix": 14.81,
+    "sp500_price": 7706.03,
+    "sp500_200dma_pct": 7.15,
+    "vix": 15.18,
     "new_highs": null,
     "new_lows": null
   },
   "dividend": [
     {
-      "ticker": "AMT",
-      "name": "American Tower Corporation (REI",
-      "ex_date": "2026-09-30",
-      "yield_pct": 4.01,
+      "ticker": "A",
+      "name": "Agilent Technologies, Inc.",
+      "ex_date": "2026-10-06",
+      "yield_pct": 61.0,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-09-30, 배당률 4.01%"
+      "note_kr": "배당락일 2026-10-06, 배당률 61.00%"
     },
     {
       "ticker": "APD",
       "name": "Air Products and Chemicals, Inc",
       "ex_date": "2026-10-01",
-      "yield_pct": 2.55,
+      "yield_pct": 2.52,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-10-01, 배당률 2.55%"
-    },
-    {
-      "ticker": "BXP",
-      "name": "BXP, Inc.",
-      "ex_date": "2026-09-30",
-      "yield_pct": 4.43,
-      "consensus": "Buy",
-      "sources": [
-        "alphavantage",
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-09-30, 배당률 4.43%"
+      "note_kr": "배당락일 2026-10-01, 배당률 2.52%"
     },
     {
       "ticker": "CAH",
       "name": "Cardinal Health, Inc.",
       "ex_date": "2026-10-01",
-      "yield_pct": 92.0,
+      "yield_pct": 93.0,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-10-01, 배당률 92.00%"
-    },
-    {
-      "ticker": "DE",
-      "name": "Deere & Company",
-      "ex_date": "2026-09-30",
-      "yield_pct": 95.0,
-      "consensus": "Buy",
-      "sources": [
-        "alphavantage",
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-09-30, 배당률 95.00%"
-    },
-    {
-      "ticker": "DHR",
-      "name": "Danaher Corporation",
-      "ex_date": "2026-09-30",
-      "yield_pct": 76.0,
-      "consensus": "Buy",
-      "sources": [
-        "alphavantage",
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-09-30, 배당률 76.00%"
-    },
-    {
-      "ticker": "ESS",
-      "name": "Essex Property Trust, Inc.",
-      "ex_date": "2026-09-30",
-      "yield_pct": 3.84,
-      "consensus": "Buy",
-      "sources": [
-        "alphavantage",
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-09-30, 배당률 3.84%"
-    },
-    {
-      "ticker": "FITB",
-      "name": "Fifth Third Bancorp",
-      "ex_date": "2026-09-30",
-      "yield_pct": 3.18,
-      "consensus": "Buy",
-      "sources": [
-        "alphavantage",
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-09-30, 배당률 3.18%"
+      "note_kr": "배당락일 2026-10-01, 배당률 93.00%"
     },
     {
       "ticker": "FRT",
       "name": "Federal Realty Investment Trust",
       "ex_date": "2026-10-01",
-      "yield_pct": 4.18,
+      "yield_pct": 4.2,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-10-01, 배당률 4.18%"
+      "note_kr": "배당락일 2026-10-01, 배당률 4.20%"
+    },
+    {
+      "ticker": "GE",
+      "name": "GE Aerospace",
+      "ex_date": "2026-10-05",
+      "yield_pct": 59.0,
+      "consensus": "Buy",
+      "sources": [
+        "alphavantage",
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-10-05, 배당률 59.00%"
     },
     {
       "ticker": "GL",
       "name": "Globe Life Inc.",
       "ex_date": "2026-10-05",
-      "yield_pct": 76.0,
+      "yield_pct": 78.0,
       "consensus": "Buy",
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-10-05, 배당률 76.00%"
+      "note_kr": "배당락일 2026-10-05, 배당률 78.00%"
+    },
+    {
+      "ticker": "PM",
+      "name": "Philip Morris International Inc",
+      "ex_date": "2026-10-02",
+      "yield_pct": 3.36,
+      "consensus": "Buy",
+      "sources": [
+        "alphavantage",
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-10-02, 배당률 3.36%"
+    },
+    {
+      "ticker": "PWR",
+      "name": "Quanta Services, Inc.",
+      "ex_date": "2026-10-01",
+      "yield_pct": 7.0,
+      "consensus": "Buy",
+      "sources": [
+        "alphavantage",
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-10-01, 배당률 7.00%"
     }
   ],
   "recommend": [
@@ -161,12 +137,12 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 163.5,
-      "peg": 0.56,
+      "peg": 0.58,
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "EPS 성장 163.5%, PEG 0.56"
+      "note_kr": "EPS 성장 163.5%, PEG 0.58"
     },
     {
       "ticker": "ADSK",
@@ -174,25 +150,12 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 59.6,
-      "peg": 0.83,
+      "peg": 0.85,
       "sources": [
         "alphavantage",
         "yahoo"
       ],
-      "note_kr": "EPS 성장 59.6%, PEG 0.83"
-    },
-    {
-      "ticker": "ANET",
-      "name": "Arista Networks, Inc.",
-      "mentions_7d": null,
-      "consensus": "Buy",
-      "eps_growth_12m_pct": 35.7,
-      "peg": 1.49,
-      "sources": [
-        "alphavantage",
-        "yahoo"
-      ],
-      "note_kr": "EPS 성장 35.7%, PEG 1.49"
+      "note_kr": "EPS 성장 59.6%, PEG 0.85"
     },
     {
       "ticker": "APH",
@@ -200,11 +163,11 @@
       "mentions_7d": null,
       "consensus": "Strong Buy",
       "eps_growth_12m_pct": 59.3,
-      "peg": 0.88,
+      "peg": 0.94,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 59.3%, PEG 0.88"
+      "note_kr": "EPS 성장 59.3%, PEG 0.94"
     },
     {
       "ticker": "APO",
@@ -224,11 +187,11 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 57.0,
-      "peg": 0.67,
+      "peg": 0.71,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 57.0%, PEG 0.67"
+      "note_kr": "EPS 성장 57.0%, PEG 0.71"
     },
     {
       "ticker": "AVGO",
@@ -236,35 +199,47 @@
       "mentions_7d": null,
       "consensus": "Strong Buy",
       "eps_growth_12m_pct": 215.3,
-      "peg": 0.35,
+      "peg": 0.36,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 215.3%, PEG 0.35"
+      "note_kr": "EPS 성장 215.3%, PEG 0.36"
     },
     {
       "ticker": "BA",
       "name": "Boeing Company (The)",
       "mentions_7d": null,
       "consensus": "Strong Buy",
-      "eps_growth_12m_pct": 47.7,
-      "peg": 1.48,
+      "eps_growth_12m_pct": 46.6,
+      "peg": 1.47,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 47.7%, PEG 1.48"
+      "note_kr": "EPS 성장 46.6%, PEG 1.47"
     },
     {
       "ticker": "BAC",
       "name": "Bank of America Corporation",
       "mentions_7d": null,
-      "consensus": "Buy",
+      "consensus": "Strong Buy",
       "eps_growth_12m_pct": 34.1,
-      "peg": 0.87,
+      "peg": 0.85,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 34.1%, PEG 0.87"
+      "note_kr": "EPS 성장 34.1%, PEG 0.85"
+    },
+    {
+      "ticker": "BG",
+      "name": "Bunge Limited",
+      "mentions_7d": null,
+      "consensus": "Buy",
+      "eps_growth_12m_pct": 33.0,
+      "peg": 1.37,
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "EPS 성장 33.0%, PEG 1.37"
     }
   ],
   "notes": "가격·펀더멘털은 yfinance(Yahoo Finance), 애널리스트 컨센서스는 Alpha Vantage 우선(실패 시 yfinance 폴백) 기준. 매수 전 증권사 공식 데이터로 재확인 필요."
