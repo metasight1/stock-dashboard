@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-19 08:49 KST",
+  "updated_at": "2026-10-22 09:24 KST",
   "regime": "bull",
-  "regime_rationale": "S&P 500이 7659로 200일 이동평균(7271)보다 +5.34% 위치, VIX는 19.99. 이를 종합하여 BULL 시장으로 판정.",
+  "regime_rationale": "S&P 500이 7757로 200일 이동평균(7284)보다 +6.49% 위치, VIX는 16.68. 이를 종합하여 BULL 시장으로 판정.",
   "excluded": [
     "AAPL",
     "AMZN",
@@ -13,9 +13,9 @@
     "TSLA"
   ],
   "market": {
-    "sp500_price": 7659.44,
-    "sp500_200dma_pct": 5.34,
-    "vix": 19.99,
+    "sp500_price": 7757.17,
+    "sp500_200dma_pct": 6.49,
+    "vix": 16.68,
     "new_highs": null,
     "new_lows": null
   },
@@ -32,6 +32,17 @@
       "note_kr": "배당락일 2026-10-30, 배당률 38.00%"
     },
     {
+      "ticker": "CFG",
+      "name": "Citizens Financial Group, Inc.",
+      "ex_date": "2026-10-30",
+      "yield_pct": 3.24,
+      "consensus": "Buy",
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-10-30, 배당률 3.24%"
+    },
+    {
       "ticker": "COST",
       "name": "Costco Wholesale Corporation",
       "ex_date": "2026-10-30",
@@ -43,26 +54,15 @@
       "note_kr": "배당락일 2026-10-30, 배당률 59.00%"
     },
     {
-      "ticker": "GEV",
-      "name": "GE Vernova Inc.",
-      "ex_date": "2026-10-27",
-      "yield_pct": 22.0,
-      "consensus": "Buy",
-      "sources": [
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-10-27, 배당률 22.00%"
-    },
-    {
       "ticker": "HUM",
       "name": "Humana Inc.",
       "ex_date": "2026-10-30",
-      "yield_pct": 86.0,
+      "yield_pct": 83.0,
       "consensus": "Buy",
       "sources": [
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-10-30, 배당률 86.00%"
+      "note_kr": "배당락일 2026-10-30, 배당률 83.00%"
     },
     {
       "ticker": "LNT",
@@ -90,23 +90,23 @@
       "ticker": "OKE",
       "name": "ONEOK, Inc.",
       "ex_date": "2026-11-02",
-      "yield_pct": 4.59,
+      "yield_pct": 4.61,
       "consensus": "Buy",
       "sources": [
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-11-02, 배당률 4.59%"
+      "note_kr": "배당락일 2026-11-02, 배당률 4.61%"
     },
     {
       "ticker": "ZTS",
       "name": "Zoetis Inc.",
       "ex_date": "2026-10-30",
-      "yield_pct": 2.67,
+      "yield_pct": 2.65,
       "consensus": "Buy",
       "sources": [
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-10-30, 배당률 2.67%"
+      "note_kr": "배당락일 2026-10-30, 배당률 2.65%"
     }
   ],
   "recommend": [
@@ -116,11 +116,11 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 290.4,
-      "peg": 0.58,
+      "peg": 0.59,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 290.4%, PEG 0.58"
+      "note_kr": "EPS 성장 290.4%, PEG 0.59"
     },
     {
       "ticker": "ABNB",
@@ -128,11 +128,11 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 33.4,
-      "peg": 1.46,
+      "peg": 1.49,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 33.4%, PEG 1.46"
+      "note_kr": "EPS 성장 33.4%, PEG 1.49"
     },
     {
       "ticker": "ADI",
@@ -151,12 +151,12 @@
       "name": "Albemarle Corporation",
       "mentions_7d": null,
       "consensus": "Buy",
-      "eps_growth_12m_pct": 4072.1,
+      "eps_growth_12m_pct": 3900.9,
       "peg": 0.79,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 4072.1%, PEG 0.79"
+      "note_kr": "EPS 성장 3900.9%, PEG 0.79"
     },
     {
       "ticker": "AMAT",
@@ -164,11 +164,23 @@
       "mentions_7d": null,
       "consensus": "Strong Buy",
       "eps_growth_12m_pct": 42.8,
-      "peg": 0.87,
+      "peg": 0.86,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 42.8%, PEG 0.87"
+      "note_kr": "EPS 성장 42.8%, PEG 0.86"
+    },
+    {
+      "ticker": "AMCR",
+      "name": "Amcor plc",
+      "mentions_7d": null,
+      "consensus": "Buy",
+      "eps_growth_12m_pct": 80.7,
+      "peg": 1.02,
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "EPS 성장 80.7%, PEG 1.02"
     },
     {
       "ticker": "AMD",
@@ -188,11 +200,11 @@
       "mentions_7d": null,
       "consensus": "Strong Buy",
       "eps_growth_12m_pct": 35.7,
-      "peg": 1.32,
+      "peg": 1.35,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 35.7%, PEG 1.32"
+      "note_kr": "EPS 성장 35.7%, PEG 1.35"
     },
     {
       "ticker": "APH",
@@ -217,18 +229,6 @@
         "yahoo"
       ],
       "note_kr": "EPS 성장 63.7%, PEG 0.42"
-    },
-    {
-      "ticker": "APP",
-      "name": "Applovin Corporation",
-      "mentions_7d": null,
-      "consensus": "Buy",
-      "eps_growth_12m_pct": 57.0,
-      "peg": 0.58,
-      "sources": [
-        "yahoo"
-      ],
-      "note_kr": "EPS 성장 57.0%, PEG 0.58"
     }
   ],
   "notes": "가격·펀더멘털은 yfinance(Yahoo Finance), 애널리스트 컨센서스는 Alpha Vantage 우선(실패 시 yfinance 폴백) 기준. 매수 전 증권사 공식 데이터로 재확인 필요."
