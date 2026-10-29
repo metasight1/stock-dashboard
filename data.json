@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-26 08:41 KST",
+  "updated_at": "2026-10-29 10:29 KST",
   "regime": "bull",
-  "regime_rationale": "S&P 500이 7624로 200일 이동평균(7291)보다 +4.56% 위치, VIX는 19.45. 이를 종합하여 BULL 시장으로 판정.",
+  "regime_rationale": "S&P 500이 7744로 200일 이동평균(7303)보다 +6.04% 위치, VIX는 16.91. 이를 종합하여 BULL 시장으로 판정.",
   "excluded": [
     "AAPL",
     "AMZN",
@@ -13,122 +13,122 @@
     "TSLA"
   ],
   "market": {
-    "sp500_price": 7623.68,
-    "sp500_200dma_pct": 4.56,
-    "vix": 19.45,
+    "sp500_price": 7743.98,
+    "sp500_200dma_pct": 6.04,
+    "vix": 16.91,
     "new_highs": null,
     "new_lows": null
   },
   "dividend": [
     {
-      "ticker": "CMS",
-      "name": "CMS Energy Corporation",
-      "ex_date": "2026-11-06",
-      "yield_pct": 3.28,
+      "ticker": "AEP",
+      "name": "American Electric Power Company",
+      "ex_date": "2026-11-10",
+      "yield_pct": 2.98,
       "consensus": "Buy",
       "sources": [
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-11-06, 배당률 3.28%"
+      "note_kr": "배당락일 2026-11-10, 배당률 2.98%"
+    },
+    {
+      "ticker": "CMS",
+      "name": "CMS Energy Corporation",
+      "ex_date": "2026-11-06",
+      "yield_pct": 3.3,
+      "consensus": "Buy",
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-11-06, 배당률 3.30%"
     },
     {
       "ticker": "FE",
       "name": "FirstEnergy Corp.",
       "ex_date": "2026-11-06",
-      "yield_pct": 4.03,
+      "yield_pct": 4.02,
       "consensus": "Buy",
       "sources": [
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-11-06, 배당률 4.03%"
+      "note_kr": "배당락일 2026-11-06, 배당률 4.02%"
+    },
+    {
+      "ticker": "FIX",
+      "name": "Comfort Systems USA, Inc.",
+      "ex_date": "2026-11-12",
+      "yield_pct": 31.0,
+      "consensus": "Strong Buy",
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-11-12, 배당률 31.00%"
     },
     {
       "ticker": "HWM",
       "name": "Howmet Aerospace Inc.",
       "ex_date": "2026-11-06",
-      "yield_pct": 30.0,
+      "yield_pct": 29.0,
       "consensus": "Strong Buy",
       "sources": [
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-11-06, 배당률 30.00%"
+      "note_kr": "배당락일 2026-11-06, 배당률 29.00%"
+    },
+    {
+      "ticker": "IBM",
+      "name": "International Business Machines",
+      "ex_date": "2026-11-10",
+      "yield_pct": 2.7,
+      "consensus": "Buy",
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-11-10, 배당률 2.70%"
+    },
+    {
+      "ticker": "IR",
+      "name": "Ingersoll Rand Inc.",
+      "ex_date": "2026-11-12",
+      "yield_pct": 11.0,
+      "consensus": "Buy",
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-11-12, 배당률 11.00%"
     },
     {
       "ticker": "JBHT",
       "name": "J.B. Hunt Transport Services, I",
       "ex_date": "2026-11-06",
-      "yield_pct": 80.0,
+      "yield_pct": 78.0,
       "consensus": "Buy",
       "sources": [
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-11-06, 배당률 80.00%"
-    },
-    {
-      "ticker": "KMI",
-      "name": "Kinder Morgan, Inc.",
-      "ex_date": "2026-11-02",
-      "yield_pct": 3.46,
-      "consensus": "Buy",
-      "sources": [
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-11-02, 배당률 3.46%"
-    },
-    {
-      "ticker": "LVS",
-      "name": "Las Vegas Sands Corp.",
-      "ex_date": "2026-11-02",
-      "yield_pct": 3.36,
-      "consensus": "Buy",
-      "sources": [
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-11-02, 배당률 3.36%"
-    },
-    {
-      "ticker": "OKE",
-      "name": "ONEOK, Inc.",
-      "ex_date": "2026-11-02",
-      "yield_pct": 4.47,
-      "consensus": "Buy",
-      "sources": [
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-11-02, 배당률 4.47%"
+      "note_kr": "배당락일 2026-11-06, 배당률 78.00%"
     },
     {
       "ticker": "PFE",
       "name": "Pfizer, Inc.",
       "ex_date": "2026-11-06",
-      "yield_pct": 5.73,
+      "yield_pct": 5.77,
       "consensus": "Buy",
       "sources": [
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-11-06, 배당률 5.73%"
+      "note_kr": "배당락일 2026-11-06, 배당률 5.77%"
     },
     {
-      "ticker": "PNW",
-      "name": "Pinnacle West Capital Corporati",
-      "ex_date": "2026-11-02",
-      "yield_pct": 3.49,
+      "ticker": "PPG",
+      "name": "PPG Industries, Inc.",
+      "ex_date": "2026-11-10",
+      "yield_pct": 2.61,
       "consensus": "Buy",
       "sources": [
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-11-02, 배당률 3.49%"
-    },
-    {
-      "ticker": "VMC",
-      "name": "Vulcan Materials Company (Holdi",
-      "ex_date": "2026-11-09",
-      "yield_pct": 79.0,
-      "consensus": "Buy",
-      "sources": [
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-11-09, 배당률 79.00%"
+      "note_kr": "배당락일 2026-11-10, 배당률 2.61%"
     }
   ],
   "recommend": [
@@ -150,11 +150,11 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 33.4,
-      "peg": 1.45,
+      "peg": 1.42,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 33.4%, PEG 1.45"
+      "note_kr": "EPS 성장 33.4%, PEG 1.42"
     },
     {
       "ticker": "ADI",
@@ -162,11 +162,11 @@
       "mentions_7d": null,
       "consensus": "Strong Buy",
       "eps_growth_12m_pct": 163.5,
-      "peg": 0.58,
+      "peg": 0.63,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 163.5%, PEG 0.58"
+      "note_kr": "EPS 성장 163.5%, PEG 0.63"
     },
     {
       "ticker": "ADSK",
@@ -174,23 +174,23 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 59.6,
-      "peg": 0.85,
+      "peg": 0.81,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 59.6%, PEG 0.85"
+      "note_kr": "EPS 성장 59.6%, PEG 0.81"
     },
     {
       "ticker": "ALB",
       "name": "Albemarle Corporation",
       "mentions_7d": null,
       "consensus": "Buy",
-      "eps_growth_12m_pct": 3900.9,
+      "eps_growth_12m_pct": 3955.1,
       "peg": 0.79,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 3900.9%, PEG 0.79"
+      "note_kr": "EPS 성장 3955.1%, PEG 0.79"
     },
     {
       "ticker": "AMAT",
@@ -198,11 +198,11 @@
       "mentions_7d": null,
       "consensus": "Strong Buy",
       "eps_growth_12m_pct": 42.8,
-      "peg": 0.8,
+      "peg": 0.84,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 42.8%, PEG 0.80"
+      "note_kr": "EPS 성장 42.8%, PEG 0.84"
     },
     {
       "ticker": "AMCR",
@@ -222,11 +222,11 @@
       "mentions_7d": null,
       "consensus": "Strong Buy",
       "eps_growth_12m_pct": 159.5,
-      "peg": 0.51,
+      "peg": 0.56,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 159.5%, PEG 0.51"
+      "note_kr": "EPS 성장 159.5%, PEG 0.56"
     },
     {
       "ticker": "ANET",
@@ -234,11 +234,11 @@
       "mentions_7d": null,
       "consensus": "Strong Buy",
       "eps_growth_12m_pct": 35.7,
-      "peg": 1.29,
+      "peg": 1.38,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 35.7%, PEG 1.29"
+      "note_kr": "EPS 성장 35.7%, PEG 1.38"
     },
     {
       "ticker": "APH",
@@ -246,11 +246,11 @@
       "mentions_7d": null,
       "consensus": "Strong Buy",
       "eps_growth_12m_pct": 59.3,
-      "peg": 0.85,
+      "peg": 0.89,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 59.3%, PEG 0.85"
+      "note_kr": "EPS 성장 59.3%, PEG 0.89"
     }
   ],
   "notes": "가격·펀더멘털은 yfinance(Yahoo Finance), 애널리스트 컨센서스는 Alpha Vantage 우선(실패 시 yfinance 폴백) 기준. 매수 전 증권사 공식 데이터로 재확인 필요."
