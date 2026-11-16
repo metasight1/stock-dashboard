@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-12 11:40 KST",
+  "updated_at": "2026-11-16 10:29 KST",
   "regime": "bull",
-  "regime_rationale": "S&P 500이 7619로 200일 이동평균(7334)보다 +3.89% 위치, VIX는 17.49. 이를 종합하여 BULL 시장으로 판정.",
+  "regime_rationale": "S&P 500이 7562로 200일 이동평균(7340)보다 +3.02% 위치, VIX는 19.30. 이를 종합하여 BULL 시장으로 판정.",
   "excluded": [
     "AAPL",
     "AMZN",
@@ -13,45 +13,45 @@
     "TSLA"
   ],
   "market": {
-    "sp500_price": 7619.38,
-    "sp500_200dma_pct": 3.89,
-    "vix": 17.49,
+    "sp500_price": 7561.67,
+    "sp500_200dma_pct": 3.02,
+    "vix": 19.3,
     "new_highs": null,
     "new_lows": null
   },
   "dividend": [
     {
-      "ticker": "AMAT",
-      "name": "Applied Materials, Inc.",
-      "ex_date": "2026-11-19",
-      "yield_pct": 57.0,
-      "consensus": "Strong Buy",
-      "sources": [
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-11-19, 배당률 57.00%"
-    },
-    {
       "ticker": "AMCR",
       "name": "Amcor plc",
       "ex_date": "2026-11-25",
-      "yield_pct": 5.84,
+      "yield_pct": 6.03,
       "consensus": "Buy",
       "sources": [
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-11-25, 배당률 5.84%"
+      "note_kr": "배당락일 2026-11-25, 배당률 6.03%"
     },
     {
-      "ticker": "EVRG",
-      "name": "Evergy, Inc.",
-      "ex_date": "2026-11-20",
-      "yield_pct": 3.27,
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "ex_date": "2026-11-24",
+      "yield_pct": 53.0,
       "consensus": "Buy",
       "sources": [
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-11-20, 배당률 3.27%"
+      "note_kr": "배당락일 2026-11-24, 배당률 53.00%"
+    },
+    {
+      "ticker": "DOV",
+      "name": "Dover Corporation",
+      "ex_date": "2026-11-30",
+      "yield_pct": 100.0,
+      "consensus": "Buy",
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-11-30, 배당률 100.00%"
     },
     {
       "ticker": "LH",
@@ -65,59 +65,48 @@
       "note_kr": "배당락일 2026-11-24, 배당률 78.00%"
     },
     {
-      "ticker": "MAR",
-      "name": "Marriott International",
-      "ex_date": "2026-11-19",
-      "yield_pct": 68.0,
-      "consensus": "Buy",
-      "sources": [
-        "yahoo"
-      ],
-      "note_kr": "배당락일 2026-11-19, 배당률 68.00%"
-    },
-    {
       "ticker": "MCHP",
       "name": "Microchip Technology Incorporat",
       "ex_date": "2026-11-23",
-      "yield_pct": 3.02,
+      "yield_pct": 2.95,
       "consensus": "Strong Buy",
       "sources": [
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-11-23, 배당률 3.02%"
+      "note_kr": "배당락일 2026-11-23, 배당률 2.95%"
     },
     {
-      "ticker": "MCO",
-      "name": "Moody's Corporation",
-      "ex_date": "2026-11-20",
-      "yield_pct": 81.0,
+      "ticker": "NEE",
+      "name": "NextEra Energy, Inc.",
+      "ex_date": "2026-11-27",
+      "yield_pct": 2.93,
       "consensus": "Buy",
       "sources": [
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-11-20, 배당률 81.00%"
+      "note_kr": "배당락일 2026-11-27, 배당률 2.93%"
     },
     {
       "ticker": "NEM",
       "name": "Newmont Corporation",
       "ex_date": "2026-11-25",
-      "yield_pct": 87.0,
+      "yield_pct": 92.0,
       "consensus": "Buy",
       "sources": [
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-11-25, 배당률 87.00%"
+      "note_kr": "배당락일 2026-11-25, 배당률 92.00%"
     },
     {
-      "ticker": "REGN",
-      "name": "Regeneron Pharmaceuticals, Inc.",
-      "ex_date": "2026-11-20",
-      "yield_pct": 41.0,
-      "consensus": "Buy",
+      "ticker": "Q",
+      "name": "Qnity Electronics, Inc.",
+      "ex_date": "2026-11-30",
+      "yield_pct": 27.0,
+      "consensus": "Strong Buy",
       "sources": [
         "yahoo"
       ],
-      "note_kr": "배당락일 2026-11-20, 배당률 41.00%"
+      "note_kr": "배당락일 2026-11-30, 배당률 27.00%"
     },
     {
       "ticker": "SPGI",
@@ -129,6 +118,17 @@
         "yahoo"
       ],
       "note_kr": "배당락일 2026-11-25, 배당률 82.00%"
+    },
+    {
+      "ticker": "TER",
+      "name": "Teradyne, Inc.",
+      "ex_date": "2026-11-23",
+      "yield_pct": 21.0,
+      "consensus": "Buy",
+      "sources": [
+        "yahoo"
+      ],
+      "note_kr": "배당락일 2026-11-23, 배당률 21.00%"
     }
   ],
   "recommend": [
@@ -150,11 +150,11 @@
       "mentions_7d": null,
       "consensus": "Strong Buy",
       "eps_growth_12m_pct": 163.5,
-      "peg": 0.58,
+      "peg": 0.59,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 163.5%, PEG 0.58"
+      "note_kr": "EPS 성장 163.5%, PEG 0.59"
     },
     {
       "ticker": "ADSK",
@@ -162,11 +162,11 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 59.6,
-      "peg": 0.87,
+      "peg": 0.89,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 59.6%, PEG 0.87"
+      "note_kr": "EPS 성장 59.6%, PEG 0.89"
     },
     {
       "ticker": "AJG",
@@ -185,24 +185,24 @@
       "name": "Albemarle Corporation",
       "mentions_7d": null,
       "consensus": "Buy",
-      "eps_growth_12m_pct": 104.0,
+      "eps_growth_12m_pct": 84.6,
       "peg": 0.79,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 104.0%, PEG 0.79"
+      "note_kr": "EPS 성장 84.6%, PEG 0.79"
     },
     {
       "ticker": "AMAT",
       "name": "Applied Materials, Inc.",
       "mentions_7d": null,
       "consensus": "Strong Buy",
-      "eps_growth_12m_pct": 42.8,
-      "peg": 0.79,
+      "eps_growth_12m_pct": 43.1,
+      "peg": 0.78,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 42.8%, PEG 0.79"
+      "note_kr": "EPS 성장 43.1%, PEG 0.78"
     },
     {
       "ticker": "AMD",
@@ -210,11 +210,11 @@
       "mentions_7d": null,
       "consensus": "Strong Buy",
       "eps_growth_12m_pct": 93.8,
-      "peg": 0.46,
+      "peg": 0.48,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 93.8%, PEG 0.46"
+      "note_kr": "EPS 성장 93.8%, PEG 0.48"
     },
     {
       "ticker": "ANET",
@@ -222,11 +222,11 @@
       "mentions_7d": null,
       "consensus": "Strong Buy",
       "eps_growth_12m_pct": 82.1,
-      "peg": 1.34,
+      "peg": 1.43,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 82.1%, PEG 1.34"
+      "note_kr": "EPS 성장 82.1%, PEG 1.43"
     },
     {
       "ticker": "APH",
@@ -234,11 +234,11 @@
       "mentions_7d": null,
       "consensus": "Strong Buy",
       "eps_growth_12m_pct": 61.2,
-      "peg": 0.73,
+      "peg": 0.71,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 61.2%, PEG 0.73"
+      "note_kr": "EPS 성장 61.2%, PEG 0.71"
     },
     {
       "ticker": "APP",
@@ -246,11 +246,11 @@
       "mentions_7d": null,
       "consensus": "Buy",
       "eps_growth_12m_pct": 75.5,
-      "peg": 0.84,
+      "peg": 0.86,
       "sources": [
         "yahoo"
       ],
-      "note_kr": "EPS 성장 75.5%, PEG 0.84"
+      "note_kr": "EPS 성장 75.5%, PEG 0.86"
     }
   ],
   "notes": "가격·펀더멘털은 yfinance(Yahoo Finance), 애널리스트 컨센서스는 Alpha Vantage 우선(실패 시 yfinance 폴백) 기준. 매수 전 증권사 공식 데이터로 재확인 필요."
